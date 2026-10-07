@@ -1,0 +1,661 @@
+{
+  "primary_tickers": [
+    "TCS.NS",
+    "INFY.NS"
+  ],
+  "peer_tickers": [
+    "WIPRO.NS",
+    "HCLTECH.NS"
+  ],
+  "period": "1y",
+  "mock_mode": true,
+  "fundamentals": {
+    "TCS.NS": {
+      "symbol": "TCS.NS",
+      "shortName": "TCS.NS Corp",
+      "sector": "Technology",
+      "industry": "Software",
+      "marketCap": 1005682595660,
+      "trailingPE": 44.8,
+      "priceToBook": 3.05,
+      "returnOnEquity": 0.1752,
+      "returnOnAssets": 0.1542,
+      "debtToEquity": 53.65,
+      "currentRatio": 1.69,
+      "beta": 1.38,
+      "totalRevenue": 33024646010,
+      "netIncomeToCommon": 6089892970,
+      "ebitda": 5905138605,
+      "operatingMargins": 0.3468,
+      "profitMargins": 0.1613,
+      "trailingEps": 51.66,
+      "totalDebt": 14131124358,
+      "freeCashflow": 3601407250,
+      "revenueGrowth": 0.1083,
+      "earningsGrowth": -0.0901,
+      "interestCoverage": 12.2,
+      "currency": "INR",
+      "fiftyTwoWeekHigh": 3248.0,
+      "fiftyTwoWeekLow": 1748.92,
+      "currentPrice": 2498.46,
+      "recommendationKey": "buy",
+      "numberOfAnalystOpinions": 9
+    },
+    "INFY.NS": {
+      "symbol": "INFY.NS",
+      "shortName": "INFY.NS Corp",
+      "sector": "Technology",
+      "industry": "Software",
+      "marketCap": 173676921651,
+      "trailingPE": 26.03,
+      "priceToBook": 4.84,
+      "returnOnEquity": 0.2577,
+      "returnOnAssets": 0.0436,
+      "debtToEquity": 109.66,
+      "currentRatio": 3.29,
+      "beta": 1.48,
+      "totalRevenue": 25099168582,
+      "netIncomeToCommon": 5612249584,
+      "ebitda": 4117095687,
+      "operatingMargins": 0.3334,
+      "profitMargins": 0.1386,
+      "trailingEps": 36.38,
+      "totalDebt": 13997865742,
+      "freeCashflow": 3261688228,
+      "revenueGrowth": 0.2066,
+      "earningsGrowth": 0.016,
+      "interestCoverage": 3.73,
+      "currency": "INR",
+      "fiftyTwoWeekHigh": 754.81,
+      "fiftyTwoWeekLow": 406.44,
+      "currentPrice": 580.63,
+      "recommendationKey": "buy",
+      "numberOfAnalystOpinions": 13
+    },
+    "WIPRO.NS": {
+      "symbol": "WIPRO.NS",
+      "shortName": "WIPRO.NS Corp",
+      "sector": "Technology",
+      "industry": "Software",
+      "marketCap": 136080262738,
+      "trailingPE": 18.92,
+      "priceToBook": 2.26,
+      "returnOnEquity": 0.3199,
+      "returnOnAssets": 0.1599,
+      "debtToEquity": 14.37,
+      "currentRatio": 1.25,
+      "beta": 1.53,
+      "totalRevenue": 48361186444,
+      "netIncomeToCommon": 726374991,
+      "ebitda": 8609355895,
+      "operatingMargins": 0.2642,
+      "profitMargins": 0.1003,
+      "trailingEps": 14.87,
+      "totalDebt": 8548877705,
+      "freeCashflow": 2991875931,
+      "revenueGrowth": 0.0114,
+      "earningsGrowth": -0.0048,
+      "interestCoverage": 11.12,
+      "currency": "INR",
+      "fiftyTwoWeekHigh": 1642.36,
+      "fiftyTwoWeekLow": 884.35,
+      "currentPrice": 1263.35,
+      "recommendationKey": "hold",
+      "numberOfAnalystOpinions": 29
+    },
+    "HCLTECH.NS": {
+      "symbol": "HCLTECH.NS",
+      "shortName": "HCLTECH.NS Corp",
+      "sector": "Technology",
+      "industry": "Software",
+      "marketCap": 495079064984,
+      "trailingPE": 27.29,
+      "priceToBook": 2.95,
+      "returnOnEquity": 0.2929,
+      "returnOnAssets": 0.1648,
+      "debtToEquity": 15.29,
+      "currentRatio": 1.46,
+      "beta": 0.87,
+      "totalRevenue": 44550729047,
+      "netIncomeToCommon": 6937118987,
+      "ebitda": 10371478417,
+      "operatingMargins": 0.2999,
+      "profitMargins": 0.1308,
+      "trailingEps": 69.79,
+      "totalDebt": 9382826784,
+      "freeCashflow": 1511476989,
+      "revenueGrowth": 0.0392,
+      "earningsGrowth": 0.0221,
+      "interestCoverage": 13.01,
+      "currency": "INR",
+      "fiftyTwoWeekHigh": 2742.35,
+      "fiftyTwoWeekLow": 1476.65,
+      "currentPrice": 2109.5,
+      "recommendationKey": "hold",
+      "numberOfAnalystOpinions": 5
+    }
+  },
+  "news_items": [
+    {
+      "title": "TCS.NS reports strong quarterly earnings beating estimates",
+      "summary": "TCS.NS reports strong quarterly earnings beating estimates. Analysts are watching developments closely.",
+      "published": "2026-10-07",
+      "source": "MockNews",
+      "url": "https://example.com/news/tcs.ns/0",
+      "sentiment": "positive",
+      "confidence": 0.82,
+      "rationale": "Article highlights strong revenue growth and positive guidance."
+    },
+    {
+      "title": "Analysts upgrade TCS.NS on improved margin outlook",
+      "summary": "Analysts upgrade TCS.NS on improved margin outlook. Analysts are watching developments closely.",
+      "published": "2026-10-04",
+      "source": "MockNews",
+      "url": "https://example.com/news/tcs.ns/1",
+      "sentiment": "positive",
+      "confidence": 0.82,
+      "rationale": "Article highlights strong revenue growth and positive guidance."
+    },
+    {
+      "title": "TCS.NS faces headwinds from global supply chain disruptions",
+      "summary": "TCS.NS faces headwinds from global supply chain disruptions. Analysts are watching developments closely.",
+      "published": "2026-10-01",
+      "source": "MockNews",
+      "url": "https://example.com/news/tcs.ns/2",
+      "sentiment": "positive",
+      "confidence": 0.82,
+      "rationale": "Article highlights strong revenue growth and positive guidance."
+    },
+    {
+      "title": "New product launch drives optimism for TCS.NS investors",
+      "summary": "New product launch drives optimism for TCS.NS investors. Analysts are watching developments closely.",
+      "published": "2026-09-28",
+      "source": "MockNews",
+      "url": "https://example.com/news/tcs.ns/3",
+      "sentiment": "positive",
+      "confidence": 0.82,
+      "rationale": "Article highlights strong revenue growth and positive guidance."
+    },
+    {
+      "title": "TCS.NS management provides cautious guidance for next quarter",
+      "summary": "TCS.NS management provides cautious guidance for next quarter. Analysts are watching developments closely.",
+      "published": "2026-09-25",
+      "source": "MockNews",
+      "url": "https://example.com/news/tcs.ns/4",
+      "sentiment": "positive",
+      "confidence": 0.82,
+      "rationale": "Article highlights strong revenue growth and positive guidance."
+    },
+    {
+      "title": "Institutional investors increase stake in TCS.NS",
+      "summary": "Institutional investors increase stake in TCS.NS. Analysts are watching developments closely.",
+      "published": "2026-09-22",
+      "source": "MockNews",
+      "url": "https://example.com/news/tcs.ns/5",
+      "sentiment": "positive",
+      "confidence": 0.82,
+      "rationale": "Article highlights strong revenue growth and positive guidance."
+    },
+    {
+      "title": "TCS.NS under pressure amid broader market sell-off",
+      "summary": "TCS.NS under pressure amid broader market sell-off. Analysts are watching developments closely.",
+      "published": "2026-09-19",
+      "source": "MockNews",
+      "url": "https://example.com/news/tcs.ns/6",
+      "sentiment": "positive",
+      "confidence": 0.82,
+      "rationale": "Article highlights strong revenue growth and positive guidance."
+    },
+    {
+      "title": "INFY.NS reports strong quarterly earnings beating estimates",
+      "summary": "INFY.NS reports strong quarterly earnings beating estimates. Analysts are watching developments closely.",
+      "published": "2026-10-07",
+      "source": "MockNews",
+      "url": "https://example.com/news/infy.ns/0",
+      "sentiment": "positive",
+      "confidence": 0.82,
+      "rationale": "Article highlights strong revenue growth and positive guidance."
+    },
+    {
+      "title": "Analysts upgrade INFY.NS on improved margin outlook",
+      "summary": "Analysts upgrade INFY.NS on improved margin outlook. Analysts are watching developments closely.",
+      "published": "2026-10-04",
+      "source": "MockNews",
+      "url": "https://example.com/news/infy.ns/1",
+      "sentiment": "positive",
+      "confidence": 0.82,
+      "rationale": "Article highlights strong revenue growth and positive guidance."
+    },
+    {
+      "title": "INFY.NS faces headwinds from global supply chain disruptions",
+      "summary": "INFY.NS faces headwinds from global supply chain disruptions. Analysts are watching developments closely.",
+      "published": "2026-10-01",
+      "source": "MockNews",
+      "url": "https://example.com/news/infy.ns/2",
+      "sentiment": "positive",
+      "confidence": 0.82,
+      "rationale": "Article highlights strong revenue growth and positive guidance."
+    },
+    {
+      "title": "New product launch drives optimism for INFY.NS investors",
+      "summary": "New product launch drives optimism for INFY.NS investors. Analysts are watching developments closely.",
+      "published": "2026-09-28",
+      "source": "MockNews",
+      "url": "https://example.com/news/infy.ns/3",
+      "sentiment": "positive",
+      "confidence": 0.82,
+      "rationale": "Article highlights strong revenue growth and positive guidance."
+    },
+    {
+      "title": "INFY.NS management provides cautious guidance for next quarter",
+      "summary": "INFY.NS management provides cautious guidance for next quarter. Analysts are watching developments closely.",
+      "published": "2026-09-25",
+      "source": "MockNews",
+      "url": "https://example.com/news/infy.ns/4",
+      "sentiment": "positive",
+      "confidence": 0.82,
+      "rationale": "Article highlights strong revenue growth and positive guidance."
+    },
+    {
+      "title": "Institutional investors increase stake in INFY.NS",
+      "summary": "Institutional investors increase stake in INFY.NS. Analysts are watching developments closely.",
+      "published": "2026-09-22",
+      "source": "MockNews",
+      "url": "https://example.com/news/infy.ns/5",
+      "sentiment": "positive",
+      "confidence": 0.82,
+      "rationale": "Article highlights strong revenue growth and positive guidance."
+    },
+    {
+      "title": "INFY.NS under pressure amid broader market sell-off",
+      "summary": "INFY.NS under pressure amid broader market sell-off. Analysts are watching developments closely.",
+      "published": "2026-09-19",
+      "source": "MockNews",
+      "url": "https://example.com/news/infy.ns/6",
+      "sentiment": "positive",
+      "confidence": 0.82,
+      "rationale": "Article highlights strong revenue growth and positive guidance."
+    }
+  ],
+  "analyst_opinions": {
+    "TCS.NS": {
+      "strongBuy": 7,
+      "buy": 8,
+      "hold": 6,
+      "sell": 2,
+      "strongSell": 1,
+      "targetMeanPrice": 3246.19
+    },
+    "INFY.NS": {
+      "strongBuy": 3,
+      "buy": 9,
+      "hold": 6,
+      "sell": 0,
+      "strongSell": 1,
+      "targetMeanPrice": 2725.62
+    },
+    "WIPRO.NS": {
+      "strongBuy": 2,
+      "buy": 5,
+      "hold": 3,
+      "sell": 0,
+      "strongSell": 1,
+      "targetMeanPrice": 3142.04
+    },
+    "HCLTECH.NS": {
+      "strongBuy": 2,
+      "buy": 10,
+      "hold": 1,
+      "sell": 0,
+      "strongSell": 0,
+      "targetMeanPrice": 1804.39
+    }
+  },
+  "data_quality_score": 100.0,
+  "validation_flags": [],
+  "kpis": {
+    "TCS.NS": {
+      "revenue": 33024646010.0,
+      "net_income": 6089892970.0,
+      "ebitda": 5905138605.0,
+      "operating_margin": 0.3468,
+      "net_margin": 0.1613,
+      "eps": 51.66,
+      "total_debt": 14131124358.0,
+      "free_cash_flow": 3601407250.0,
+      "revenue_yoy": 0.1083,
+      "net_income_yoy": -0.0901
+    },
+    "INFY.NS": {
+      "revenue": 25099168582.0,
+      "net_income": 5612249584.0,
+      "ebitda": 4117095687.0,
+      "operating_margin": 0.3334,
+      "net_margin": 0.1386,
+      "eps": 36.38,
+      "total_debt": 13997865742.0,
+      "free_cash_flow": 3261688228.0,
+      "revenue_yoy": 0.2066,
+      "net_income_yoy": 0.016
+    },
+    "WIPRO.NS": {
+      "revenue": 48361186444.0,
+      "net_income": 726374991.0,
+      "ebitda": 8609355895.0,
+      "operating_margin": 0.2642,
+      "net_margin": 0.1003,
+      "eps": 14.87,
+      "total_debt": 8548877705.0,
+      "free_cash_flow": 2991875931.0,
+      "revenue_yoy": 0.0114,
+      "net_income_yoy": -0.0048
+    },
+    "HCLTECH.NS": {
+      "revenue": 44550729047.0,
+      "net_income": 6937118987.0,
+      "ebitda": 10371478417.0,
+      "operating_margin": 0.2999,
+      "net_margin": 0.1308,
+      "eps": 69.79,
+      "total_debt": 9382826784.0,
+      "free_cash_flow": 1511476989.0,
+      "revenue_yoy": 0.0392,
+      "net_income_yoy": 0.0221
+    }
+  },
+  "ratios": {
+    "TCS.NS": {
+      "pe": 44.8,
+      "pb": 3.05,
+      "roe": 0.1752,
+      "roa": 0.1542,
+      "debt_to_equity": 53.65,
+      "current_ratio": 1.69,
+      "interest_coverage": 12.2,
+      "beta": 1.38,
+      "volatility_ann": 0.2247,
+      "max_drawdown": -0.1977
+    },
+    "INFY.NS": {
+      "pe": 26.03,
+      "pb": 4.84,
+      "roe": 0.2577,
+      "roa": 0.0436,
+      "debt_to_equity": 109.66,
+      "current_ratio": 3.29,
+      "interest_coverage": 3.73,
+      "beta": 1.48,
+      "volatility_ann": 0.2456,
+      "max_drawdown": -0.1454
+    },
+    "WIPRO.NS": {
+      "pe": 18.92,
+      "pb": 2.26,
+      "roe": 0.3199,
+      "roa": 0.1599,
+      "debt_to_equity": 14.37,
+      "current_ratio": 1.25,
+      "interest_coverage": 11.12,
+      "beta": 1.53,
+      "volatility_ann": 0.2498,
+      "max_drawdown": -0.2462
+    },
+    "HCLTECH.NS": {
+      "pe": 27.29,
+      "pb": 2.95,
+      "roe": 0.2929,
+      "roa": 0.1648,
+      "debt_to_equity": 15.29,
+      "current_ratio": 1.46,
+      "interest_coverage": 13.01,
+      "beta": 0.87,
+      "volatility_ann": 0.2245,
+      "max_drawdown": -0.3583
+    }
+  },
+  "benchmark_table": [
+    {
+      "ticker": "WIPRO.NS",
+      "pe": 18.92,
+      "pb": 2.26,
+      "roe": 0.3199,
+      "debt_to_equity": 14.37,
+      "net_margin": 0.1003,
+      "rel_strength": 0.386
+    },
+    {
+      "ticker": "HCLTECH.NS",
+      "pe": 27.29,
+      "pb": 2.95,
+      "roe": 0.2929,
+      "debt_to_equity": 15.29,
+      "net_margin": 0.1308,
+      "rel_strength": 0.386
+    },
+    {
+      "ticker": "INFY.NS",
+      "pe": 26.03,
+      "pb": 4.84,
+      "roe": 0.2577,
+      "debt_to_equity": 109.66,
+      "net_margin": 0.1386,
+      "rel_strength": -0.261
+    },
+    {
+      "ticker": "TCS.NS",
+      "pe": 44.8,
+      "pb": 3.05,
+      "roe": 0.1752,
+      "debt_to_equity": 53.65,
+      "net_margin": 0.1613,
+      "rel_strength": -0.512
+    }
+  ],
+  "sector_median": {
+    "pe": 26.66,
+    "pb": 3.0,
+    "roe": 0.2753,
+    "debt_to_equity": 34.47,
+    "net_margin": 0.1347
+  },
+  "sentiment_index": [
+    {
+      "date": "2026-09-19",
+      "score": 0.82
+    },
+    {
+      "date": "2026-09-22",
+      "score": 0.82
+    },
+    {
+      "date": "2026-09-25",
+      "score": 0.82
+    },
+    {
+      "date": "2026-09-28",
+      "score": 0.82
+    },
+    {
+      "date": "2026-10-01",
+      "score": 0.82
+    },
+    {
+      "date": "2026-10-04",
+      "score": 0.82
+    },
+    {
+      "date": "2026-10-07",
+      "score": 0.82
+    }
+  ],
+  "overall_sentiment": 0.82,
+  "trend_signals": {
+    "TCS.NS": {
+      "ma20": 3594.3,
+      "ma50": 3731.19,
+      "last_price": 3584.0,
+      "above_ma20": false,
+      "above_ma50": false,
+      "ma_signal": "bearish"
+    },
+    "INFY.NS": {
+      "ma20": 835.25,
+      "ma50": 849.27,
+      "last_price": 873.21,
+      "above_ma20": true,
+      "above_ma50": true,
+      "ma_signal": "bearish"
+    }
+  },
+  "price_forecast": {
+    "TCS.NS": {
+      "forecast_30d": 4032.32,
+      "pct_change_30d": 0.1251,
+      "trend_slope": 5.0569,
+      "trend_direction": "up"
+    },
+    "INFY.NS": {
+      "forecast_30d": 850.99,
+      "pct_change_30d": -0.0254,
+      "trend_slope": 0.2842,
+      "trend_direction": "up"
+    }
+  },
+  "risk_indicators": [
+    {
+      "name": "Leverage Risk",
+      "level": "Low",
+      "score": 0.15,
+      "explanation": "Low leverage: D/E=53.6."
+    },
+    {
+      "name": "Margin Compression",
+      "level": "Low",
+      "score": 0.3,
+      "explanation": "Adequate net margin: 16.1%."
+    },
+    {
+      "name": "Volatility Risk",
+      "level": "Low",
+      "score": 0.15,
+      "explanation": "Low volatility: 22.5%."
+    },
+    {
+      "name": "Sentiment Risk",
+      "level": "Low",
+      "score": 0.1,
+      "explanation": "Positive market sentiment (0.82)."
+    },
+    {
+      "name": "Valuation Risk",
+      "level": "High",
+      "score": 0.75,
+      "explanation": "P/E=44.8 is >50% above sector median (26.7)."
+    }
+  ],
+  "recommendations": {
+    "TCS.NS": {
+      "rating": "Hold",
+      "confidence": 0.82,
+      "summary": "",
+      "reasons": [],
+      "risks": [],
+      "citations": []
+    },
+    "INFY.NS": {
+      "rating": "Hold",
+      "confidence": 0.82,
+      "summary": "",
+      "reasons": [],
+      "risks": [],
+      "citations": []
+    }
+  },
+  "report_url": "",
+  "step_results": [
+    {
+      "step_number": 1,
+      "step_name": "Data Gathering",
+      "status": "done",
+      "message": "Completed in 14 ms",
+      "duration_ms": 14.254799985792488,
+      "started_at": "2026-10-07 06:07:35.444928",
+      "finished_at": "2026-10-07 06:07:35.459212"
+    },
+    {
+      "step_number": 2,
+      "step_name": "Validation",
+      "status": "done",
+      "message": "Completed in 13 ms",
+      "duration_ms": 13.20710004074499,
+      "started_at": "2026-10-07 06:07:35.459459",
+      "finished_at": "2026-10-07 06:07:35.472685"
+    },
+    {
+      "step_number": 3,
+      "step_name": "KPI Extraction",
+      "status": "done",
+      "message": "Completed in 0 ms",
+      "duration_ms": 0.25489996187388897,
+      "started_at": "2026-10-07 06:07:35.472899",
+      "finished_at": "2026-10-07 06:07:35.473151"
+    },
+    {
+      "step_number": 4,
+      "step_name": "Ratio Calculation",
+      "status": "done",
+      "message": "Completed in 8 ms",
+      "duration_ms": 8.44649999635294,
+      "started_at": "2026-10-07 06:07:35.473261",
+      "finished_at": "2026-10-07 06:07:35.481721"
+    },
+    {
+      "step_number": 5,
+      "step_name": "Competitor Benchmarking",
+      "status": "done",
+      "message": "Completed in 1 ms",
+      "duration_ms": 0.8954999502748251,
+      "started_at": "2026-10-07 06:07:35.481862",
+      "finished_at": "2026-10-07 06:07:35.482780"
+    },
+    {
+      "step_number": 6,
+      "step_name": "Sentiment Analysis",
+      "status": "done",
+      "message": "Completed in 1 ms",
+      "duration_ms": 1.2367000454105437,
+      "started_at": "2026-10-07 06:07:35.483230",
+      "finished_at": "2026-10-07 06:07:35.484470"
+    },
+    {
+      "step_number": 7,
+      "step_name": "Predictive Insights",
+      "status": "done",
+      "message": "Completed in 5 ms",
+      "duration_ms": 5.025000020395964,
+      "started_at": "2026-10-07 06:07:35.484713",
+      "finished_at": "2026-10-07 06:07:35.489749"
+    },
+    {
+      "step_number": 8,
+      "step_name": "Recommendations",
+      "status": "done",
+      "message": "Completed in 1 ms",
+      "duration_ms": 1.130899996496737,
+      "started_at": "2026-10-07 06:07:35.489952",
+      "finished_at": "2026-10-07 06:07:35.491095"
+    },
+    {
+      "step_number": 9,
+      "step_name": "Report Delivery",
+      "status": "pending",
+      "message": "",
+      "duration_ms": 0.0,
+      "started_at": "2026-10-07 06:07:35.491289",
+      "finished_at": null
+    }
+  ],
+  "run_started_at": "2026-10-07 06:07:35.444628",
+  "run_finished_at": null,
+  "error_summary": []
+}

@@ -1,0 +1,7 @@
+You are a financial news sentiment analyser. Classify the sentiment of the following news headline and summary as positive, neutral, or negative from an investor perspective.
+
+Respond ONLY with valid JSON in this exact format (no markdown fences, no extra text):
+{{"sentiment": "<positive|neutral|negative>", "confidence": <0.0-1.0>, "rationale": "<one sentence>"}}
+
+Headline: {title}
+Summary: {summary}
